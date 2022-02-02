@@ -1,7 +1,7 @@
 # Azure Blob Storage file upload
 This script allows to upload any file in an Azure Blob Storage
 
-**Before running this script, please copy your credentials from the Azure Portal as follow : **
+**Before running this script, please copy your credentials from the Azure Portal as follow :**
 
 1. Sign in to the *Azure portal*.
 2. Create a *Storage Accoun*.
