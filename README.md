@@ -10,6 +10,6 @@ This script allows to upload any file in an Azure Blob Storage
 5. In the *Access keys* pane, select *Show key*
 6. Copy the **Connection string** value and past it in your code or as environment variable for more security.
 
-**So if you use the incorrect installation order for these packages, you must have to uninstall azure-storage first and install azure-storage-blob again to avoid the potential error later.**
+**So if you use the incorrect installation order for these packages, you must have to uninstall `azure-storage` first and install `azure-storage-blob` again to avoid the potential error later.**
 
 > You can find more information on <a href="https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-python#upload-blobs-to-a-container" target="_blank">Azure's Documentation</a>
